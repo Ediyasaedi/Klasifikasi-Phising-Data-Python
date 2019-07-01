@@ -1,0 +1,4 @@
+Revisi Machine Learning:
+MLPClassifier: bandingkan antar solver
+Naive Bayes: bandingkan Gaussian dan yg lainnya
+KNN: bandingkan n_neighboor
